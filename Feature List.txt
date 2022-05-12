@@ -1,0 +1,8 @@
+Lista dos Atributos de Entrada para o Deploy:
+
+'median_income'
+'ocean_proximity_INLAND'
+'population_per_household'
+'longitude'
+'bedrooms_per_room'
+'latitude'
