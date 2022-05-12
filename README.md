@@ -14,7 +14,9 @@ Deploy of Machine Learning for House Pricing Using Streamlit
 
       To execute the cloud you must access the directory and execute "streamlit run House_Pricing.py" from that. Then you see the result below:
       
-      ![image](https://user-images.githubusercontent.com/70763447/168175910-cccf4033-15b3-41a0-a385-dc44e151efb3.png)
+![image](https://user-images.githubusercontent.com/70763447/168175910-cccf4033-15b3-41a0-a385-dc44e151efb3.png)
+      
+      
 
   
   
